@@ -1,0 +1,12 @@
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\bin\Debug\netstandard2.0\Rankipedia.Engine.deps.json
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\bin\Debug\netstandard2.0\Rankipedia.Engine.dll
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\bin\Debug\netstandard2.0\Rankipedia.Engine.pdb
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\obj\Debug\netstandard2.0\Rankipedia.Engine.csprojAssemblyReference.cache
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\obj\Debug\netstandard2.0\Rankipedia.Engine.AssemblyInfoInputs.cache
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\obj\Debug\netstandard2.0\Rankipedia.Engine.AssemblyInfo.cs
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\obj\Debug\netstandard2.0\Rankipedia.Engine.csproj.CoreCompileInputs.cache
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\obj\Debug\netstandard2.0\Rankipedia.Engine.dll
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\obj\Debug\netstandard2.0\Rankipedia.Engine.pdb
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\bin\Debug\netstandard2.0\Rankipedia.Data.dll
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\bin\Debug\netstandard2.0\Rankipedia.Data.pdb
+C:\Users\npal\Desktop\Rankipedia\server\Rankipedia.Engine\obj\Debug\netstandard2.0\Rankipedia.Engine.csproj.CopyComplete
